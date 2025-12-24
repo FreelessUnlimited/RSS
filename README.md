@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  An advanced, fully modular Roblox Sprinting System (R.S.S) with easy to use API calls. This script also works with either 'R6' or 'R15'
+  An advanced, fully modular Roblox Sprinting System (R.S.S) with easy to use API calls.
 </p>
 
 > [!CAUTION]
@@ -32,7 +32,9 @@
 - Live runtime configuration changes  
 - Full external API for other scripts (speed override, forced sprint, multipliers)  
 - Safe, modular, and production-ready  
-
+- Compatibility with 'R6' & 'R15'
+- Multi-Keybind support
+  
 ---
 
 ## Installation
