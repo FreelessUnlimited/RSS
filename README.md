@@ -8,8 +8,8 @@
 
 > [!CAUTION]
 > This project is in early **BETA** so remember to report any issues to the [Issues Tab](https://github.com/FreelessUnlimited/RSS/issues)!
-> Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases/tag/Release)
-> Also please leave a star 😊
+> Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases/tag/Release),
+> also please leave a star 😊
 ---
 
 ## Table of Content
