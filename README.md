@@ -59,6 +59,12 @@ local sprint = SprintModule.new(player.Character)
 > So going into the script and editing is not really needed.
 > Also remember if any issues show, make a post in [**Issues**](https://github.com/FreelessUnlimited/RSS/issues)
 
+| Config Name     | How To Use                                                                                   | Example                                                        |
+|-----------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Walk Speed      | `$\color{Apricot}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                    | $\color{Apricot}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$      |
+| Run Speed       | `$\color{Aquamarine}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                 | $\color{Aquamarine}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$   |
+| AnimationID     | `$\color{Bittersweet}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                | $\color{Bittersweet}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$  |
+
 - **Client** → Cosmetic only  
 - **Server** → Authoritative speed control  
 - **Hybrid** → Client requests, server applies  
