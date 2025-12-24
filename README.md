@@ -20,7 +20,6 @@
 - [How To Use](#how-to-use)  
 - [Public API](#public-api)  
 - [Examples](#examples)  
-- [License](#license)  
 
 ---
 
