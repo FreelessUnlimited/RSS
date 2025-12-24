@@ -8,7 +8,7 @@
 
 > [!CAUTION]
 > This project is in early **BETA** so remember to report any issues to the [Issues Tab](https://github.com/FreelessUnlimited/RSS/issues)!
-> Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases)
+> Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases/tag/Release)
 > 
 ---
 
