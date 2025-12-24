@@ -2,7 +2,9 @@
 
 A super advanced, fully modular roblox sprinting system with PublicAPI calls.
 
-
+> [!CAUTION]
+> This project is in early **BETA** so remember to report any issues!
+> Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases)
 
 ---
 
