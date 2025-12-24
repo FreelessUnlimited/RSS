@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./bannar.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="100%" src="./bannar.png" /></a></p>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![Status](https://img.shields.io/badge/status-Stable-green)
