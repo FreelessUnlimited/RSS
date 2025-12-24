@@ -38,14 +38,7 @@ A super advanced, fully modular roblox sprinting system with PublicAPI calls.
 StarterPlayer
 └─ StarterPlayerScripts
 ```
-
-2. Inside `SprintModule`, add a `Configuration` folder with:
-
-- `Walk Speed` (NumberValue)  
-- `Run Speed` (NumberValue)  
-- `AnimationID` (StringValue, optional, leave empty to disable animation)
-
-3. Require and instantiate the module in a controller LocalScript when the player’s character loads:
+4. Require and instantiate the module in a controller LocalScript when the player’s character loads:
 
 ```lua
 local SprintModule = require(script.SprintModule)
@@ -55,6 +48,11 @@ local sprint = SprintModule.new(player.Character)
 ---
 
 ## Configuration
+> [!NOTE]
+> All default configuration is in the 'SprintModule.lua'
+> So going into the script and editing is not really needed.
+> Also remember if any issues show, make a post in [**Issues**](https://github.com/FreelessUnlimited/RSS/issues)
+
 - **Client** → Cosmetic only  
 - **Server** → Authoritative speed control  
 - **Hybrid** → Client requests, server applies  
