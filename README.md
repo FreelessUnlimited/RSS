@@ -1,9 +1,8 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="60%" src="./bannar.png" /></a></p>
 
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
-![Status](https://img.shields.io/badge/status-Stable-green)
+A super advanced, fully modular roblox sprinting system with PublicAPI calls.
 
-A **modular, extensible sprint system** for Roblox that supports client-side, server-side, and hybrid authority modes. Features live configuration changes, optional animations, controller support, and a rich Public API for full external control.
+
 
 ---
 
@@ -31,14 +30,13 @@ A **modular, extensible sprint system** for Roblox that supports client-side, se
 ---
 
 ## Installation
-
-1. Add `SprintModule` to your project:
+1. Download **RSS.rbxm**
+2. Open **Roblox Studio** then click on **File** then **Import Roblox Model** then select the **RSS.rbxm** file then press Enter and It's In!
+3. Add `SprintModule` to the following Directory in your game:
 
 ```
 StarterPlayer
 └─ StarterPlayerScripts
-   └─ SprintController
-      └─ SprintModule
 ```
 
 2. Inside `SprintModule`, add a `Configuration` folder with:
