@@ -2,14 +2,14 @@
   ⭐ The Ultimate Roblox Sprint System (R.S.S) ⭐
 </h1>
 
-> [!CAUTION]
-> This project is in early **BETA** so remember to report any issues!
-> Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases)
-
 <p align="center">
   An advanced, fully modular Roblox Sprinting System (R.S.S) with easy to use API calls. This script also works with either 'R6' or 'R15'
 </p>
 
+> [!CAUTION]
+> This project is in early **BETA** so remember to report any issues!
+> Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases)
+> 
 ---
 
 ## Table of Content
