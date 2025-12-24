@@ -6,9 +6,9 @@
 > This project is in early **BETA** so remember to report any issues!
 > Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases)
 
-<p1 align="center">
-  An advanced, fully modular Roblox Sprinting System (R.S.S) with easy to use API calls.
-</p1>
+<p align="center">
+  An advanced, fully modular Roblox Sprinting System (R.S.S) with easy to use API calls. This script also works with either 'R6' or 'R15'
+</p>
 
 ---
 
@@ -59,11 +59,17 @@ local sprint = SprintModule.new(player.Character)
 > So going into the script and editing is not really needed.
 > Also remember if any issues show, make a post in [**Issues**](https://github.com/FreelessUnlimited/RSS/issues)
 
-| Config Name     | How To Use                                                                                   | Example                                                        |
-|-----------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| Walk Speed      | `$\color{Apricot}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                    | $\color{Apricot}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$      |
-| Run Speed       | `$\color{Aquamarine}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                 | $\color{Aquamarine}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$   |
-| AnimationID     | `$\color{Bittersweet}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$`                | $\color{Bittersweet}{The\ quick\ brown\ fox\ jumps\ over\ the\ lazy\ dog.}$  |
+| Config Name          | How To Use                                                                                   | Example                                                        |
+|----------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Walk Speed           | You use this to change the players **Default Walk Speed**                                    | '16' or '24' |
+| Run Speed            | You use this to change the players **Sprint Speed**                                          | '24' or '32'   |
+| AnimationID          | You use this to change the **animation** that plays when the player sprints.                 | '0' |
+
+> [!NOTE]
+> You can do multiple things to disable the animation!
+> One of them is to simple leave it blank. Another is the type in the number '0'
+> This is because the script has a few of these presets inorder for you to disable the animation!
+> Animation also works with R6 & R15 as long as you have the animation for it of course!
 
 - **Client** → Cosmetic only  
 - **Server** → Authoritative speed control  
