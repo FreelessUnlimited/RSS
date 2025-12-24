@@ -62,9 +62,9 @@ local sprint = SprintModule.new(player.Character)
 
 | Config Name          | How To Use                                                                                   | Example                                                        |
 |----------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| Walk Speed           | You use this to change the players **Default Walk Speed**                                    | '16' or '24' |
-| Run Speed            | You use this to change the players **Sprint Speed**                                          | '24' or '32'   |
-| AnimationID          | You use this to change the **animation** that plays when the player sprints.                 | '0' |
+| Walk Speed           | You use this to change the players **Default Walk Speed**                                    | **16** or **24** |
+| Run Speed            | You use this to change the players **Sprint Speed**                                          | **24** or **32**   |
+| AnimationID          | You use this to change the **animation** that plays when the player sprints.                 | **rbxassetid://0** |
 
 > [!NOTE]
 > You can do multiple things to disable the animation!
