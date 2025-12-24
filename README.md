@@ -1,10 +1,16 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="60%" src="./bannar.png" /></a></p>
 
+<h1 align="center">
+  ⭐ The Ultimate Roblox Sprint System (R.S.S) ⭐
+</h1>
+
 > [!CAUTION]
 > This project is in early **BETA** so remember to report any issues!
 > Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases)
 
-<center> An advanced, fully modular Roblox Sprinting System (R.S.S) with easy to use API calls. </center>
+<p1 align="center">
+  An advanced, fully modular Roblox Sprinting System (R.S.S) with easy to use API calls.
+</p1>
 
 ---
 
