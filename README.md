@@ -7,7 +7,7 @@
 </p>
 
 > [!CAUTION]
-> This project is in early **BETA** so remember to report any issues!
+> This project is in early **BETA** so remember to report any issues to the [Issues Tab](https://github.com/FreelessUnlimited/RSS/issues)!
 > Also you can find the latest version in [**Releases**](https://github.com/FreelessUnlimited/RSS/releases)
 > 
 ---
@@ -32,7 +32,7 @@
 - Live runtime configuration changes  
 - Full external API for other scripts (speed override, forced sprint, multipliers)  
 - Safe, modular, and production-ready  
-- Compatibility with 'R6' & 'R15'
+- Compatibility with **R6** & **R15**
 - Multi-Keybind support
   
 ---
@@ -58,8 +58,7 @@ local sprint = SprintModule.new(player.Character)
 ## Configuration
 > [!NOTE]
 > All default configuration is in the 'SprintModule.lua'
-> So going into the script and editing is not really needed.
-> Also remember if any issues show, make a post in [**Issues**](https://github.com/FreelessUnlimited/RSS/issues)
+> So going into the script and editing isn't as need as in other scripts & systems similar to this.
 
 | Config Name          | How To Use                                                                                   | Example                                                        |
 |----------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------|
