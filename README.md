@@ -1,7 +1,5 @@
-# Sprint Module for Roblox
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./Assets/carbon.png" /></a></p>
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Roblox](https://img.shields.io/badge/Roblox-Luau-red)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
 ![Status](https://img.shields.io/badge/status-Stable-green)
 
@@ -9,7 +7,7 @@ A **modular, extensible sprint system** for Roblox that supports client-side, se
 
 ---
 
-## Table of Contents
+## Table of Content
 
 - [Features](#features)  
 - [Installation](#installation)  
