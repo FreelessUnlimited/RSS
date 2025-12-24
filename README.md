@@ -1,5 +1,3 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="60%" src="./bannar.png" /></a></p>
-
 <h1 align="center">
   ⭐ The Ultimate Roblox Sprint System (R.S.S) ⭐
 </h1>
